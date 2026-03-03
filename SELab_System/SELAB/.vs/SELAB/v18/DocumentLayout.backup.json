@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "D:\\SELab_System\\SELAB\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\forms\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:forms\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\forms\\frmquanlytaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:forms\\frmquanlytaikhoan.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\forms\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:forms\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\dal\\nguoidungdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:dal\\nguoidungdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\dal\\thietbidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:dal\\thietbidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|D:\\SELab_System\\SELAB\\forms\\frmquanlytaikhoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -111,10 +115,6 @@
       "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:forms\\frmquanlythietbi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\dal\\thietbidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:dal\\thietbidal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|d:\\selab_system\\selab\\dal\\thongkedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4C32D00F-649C-4F1B-9933-7B21BCA154EA}|SELAB.csproj|solutionrelative:dal\\thongkedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -198,7 +198,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -218,19 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "frmQuanLyThongBao.Designer.cs",
-              "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThongBao.Designer.cs",
-              "RelativeDocumentMoniker": "Forms\\frmQuanLyThongBao.Designer.cs",
-              "ToolTip": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThongBao.Designer.cs",
-              "RelativeToolTip": "Forms\\frmQuanLyThongBao.Designer.cs",
-              "ViewState": "AgIAAF4AAAAAAAAAAAAIwHUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:34:07.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "frmQuanLyThietBi.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThietBi.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyThietBi.cs",
@@ -241,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmLogin.cs",
               "RelativeDocumentMoniker": "Forms\\frmLogin.cs",
@@ -254,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "frmQuanLyThongBao.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThongBao.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyThongBao.cs",
@@ -265,25 +253,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "NguoiDungDAL.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\DAL\\NguoiDungDAL.cs",
               "RelativeDocumentMoniker": "DAL\\NguoiDungDAL.cs",
               "ToolTip": "D:\\SELab_System\\SELAB\\DAL\\NguoiDungDAL.cs",
               "RelativeToolTip": "DAL\\NguoiDungDAL.cs",
-              "ViewState": "AgIAAH0AAAAAAAAAAAAQwIwAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAEwJIAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:34:07.717Z"
+              "WhenOpened": "2026-02-28T05:34:07.717Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "frmQuanLyTaiKhoan.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyTaiKhoan.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyTaiKhoan.cs",
-              "ToolTip": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyTaiKhoan.cs",
-              "RelativeToolTip": "Forms\\frmQuanLyTaiKhoan.cs",
-              "ViewState": "AgIAAPoAAAAAAAAAAAAYwAkBAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyTaiKhoan.cs*",
+              "RelativeToolTip": "Forms\\frmQuanLyTaiKhoan.cs*",
+              "ViewState": "AgIAAP4AAAAAAAAAAAAQwBgBAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T05:34:07.73Z",
               "EditorCaption": ""
@@ -296,13 +285,14 @@
               "RelativeDocumentMoniker": "Forms\\frmQuanLyTaiKhoan.Designer.cs",
               "ToolTip": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyTaiKhoan.Designer.cs",
               "RelativeToolTip": "Forms\\frmQuanLyTaiKhoan.Designer.cs",
-              "ViewState": "AgIAAIQAAAAAAAAAAAAUwJAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAIwJAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:34:08.344Z"
+              "WhenOpened": "2026-02-28T05:34:08.344Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "App.config",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\App.config",
               "RelativeDocumentMoniker": "App.config",
@@ -310,24 +300,46 @@
               "RelativeToolTip": "App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-02-28T05:34:08.471Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T05:34:08.471Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "ThietBiDAL.cs",
+              "DocumentMoniker": "D:\\SELab_System\\SELAB\\DAL\\ThietBiDAL.cs",
+              "RelativeDocumentMoniker": "DAL\\ThietBiDAL.cs",
+              "ToolTip": "D:\\SELab_System\\SELAB\\DAL\\ThietBiDAL.cs",
+              "RelativeToolTip": "DAL\\ThietBiDAL.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAEwGsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:34:08.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmQuanLyThongBao.Designer.cs",
+              "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThongBao.Designer.cs",
+              "RelativeDocumentMoniker": "Forms\\frmQuanLyThongBao.Designer.cs",
+              "ToolTip": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThongBao.Designer.cs",
+              "RelativeToolTip": "Forms\\frmQuanLyThongBao.Designer.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAIwHUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-28T05:34:07.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "frmQuanLyTaiKhoan.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyTaiKhoan.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyTaiKhoan.cs",
               "ToolTip": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyTaiKhoan.cs [Design]",
               "RelativeToolTip": "Forms\\frmQuanLyTaiKhoan.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:34:07.667Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-28T05:34:07.667Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "frmQuanLyLichSuSuDung.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyLichSuSuDung.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyLichSuSuDung.cs",
@@ -338,7 +350,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "frmQuanLyLichBaoTri.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyLichBaoTri.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyLichBaoTri.cs",
@@ -349,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "frmQuanLyThongBao.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThongBao.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyThongBao.cs",
@@ -361,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "frmQuanLyLichDat.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyLichDat.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyLichDat.cs",
@@ -371,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "frmMain.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmMain.cs",
               "RelativeDocumentMoniker": "Forms\\frmMain.cs",
@@ -382,19 +394,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "frmLogin.cs [Design]",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmLogin.cs",
               "RelativeDocumentMoniker": "Forms\\frmLogin.cs",
               "ToolTip": "D:\\SELab_System\\SELAB\\Forms\\frmLogin.cs [Design]",
               "RelativeToolTip": "Forms\\frmLogin.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:34:08.343Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2026-02-28T05:34:08.343Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ThongBaoDAL.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\DAL\\ThongBaoDAL.cs",
               "RelativeDocumentMoniker": "DAL\\ThongBaoDAL.cs",
@@ -406,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "NguoiDung.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Models\\NguoiDung.cs",
               "RelativeDocumentMoniker": "Models\\NguoiDung.cs",
@@ -418,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "ThongBao.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Models\\ThongBao.cs",
               "RelativeDocumentMoniker": "Models\\ThongBao.cs",
@@ -430,7 +441,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "frmQuanLyLichSuSuDung.Designer.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyLichSuSuDung.Designer.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyLichSuSuDung.Designer.cs",
@@ -442,7 +453,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "frmQuanLyLichSuSuDung.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyLichSuSuDung.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyLichSuSuDung.cs",
@@ -454,7 +465,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "LichSuSuDungDAL.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\DAL\\LichSuSuDungDAL.cs",
               "RelativeDocumentMoniker": "DAL\\LichSuSuDungDAL.cs",
@@ -466,7 +477,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "LichSuSuDung.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Models\\LichSuSuDung.cs",
               "RelativeDocumentMoniker": "Models\\LichSuSuDung.cs",
@@ -478,7 +489,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "frmQuanLyLichDat.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyLichDat.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyLichDat.cs",
@@ -490,7 +501,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "frmQuanLyLichBaoTri.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyLichBaoTri.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyLichBaoTri.cs",
@@ -502,7 +513,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "LichBaoTriDAL.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\DAL\\LichBaoTriDAL.cs",
               "RelativeDocumentMoniker": "DAL\\LichBaoTriDAL.cs",
@@ -526,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "LichDatDAL.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\DAL\\LichDatDAL.cs",
               "RelativeDocumentMoniker": "DAL\\LichDatDAL.cs",
@@ -538,7 +549,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "frmQuanLyThietBi.cs",
               "DocumentMoniker": "D:\\SELab_System\\SELAB\\Forms\\frmQuanLyThietBi.cs",
               "RelativeDocumentMoniker": "Forms\\frmQuanLyThietBi.cs",
@@ -547,18 +558,6 @@
               "ViewState": "AgIAANQAAAAAAAAAAAA0wOwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-28T05:34:08.393Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "ThietBiDAL.cs",
-              "DocumentMoniker": "D:\\SELab_System\\SELAB\\DAL\\ThietBiDAL.cs",
-              "RelativeDocumentMoniker": "DAL\\ThietBiDAL.cs",
-              "ToolTip": "D:\\SELab_System\\SELAB\\DAL\\ThietBiDAL.cs",
-              "RelativeToolTip": "DAL\\ThietBiDAL.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T05:34:08.397Z"
             },
             {
               "$type": "Document",
